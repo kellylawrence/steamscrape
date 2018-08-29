@@ -1,0 +1,19 @@
+{
+  "name": "kl-steamscrape",
+  "engines": {
+    "node": "10.7.0"
+  },
+  "version": "1.0.0",
+  "description": "Puppeteer script to scrape latest played game info from Steam profile page.",
+  "main": "app.js",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelly Lawrence",
+  "license": "ISC"
+}
